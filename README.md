@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi their, I'm Parmanand Rai</h1>
+<h1 align="center">Hello world! I'm Parmanand Rai here</h1>
 <h3 align="center">A passionate front end developer from Karachi, Pakistan</h3>
 <img src="https://static.wixstatic.com/media/b313a9_89ebec0c5f384c65a9551f0c1ec18ca9~mv2.gif">
 
