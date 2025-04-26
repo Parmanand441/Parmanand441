@@ -1,6 +1,6 @@
 
 <h1 align="center">Hello world! I'm Parmanand Rai here</h1>
-<h3 align="center">A passionate front end developer from Karachi, Pakistan</h3>
+<h3 align="center">A passionate Backend - PHP Codeigniter Developer from Karachi, Pakistan</h3>
 <img src="https://static.wixstatic.com/media/b313a9_89ebec0c5f384c65a9551f0c1ec18ca9~mv2.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parmanand441&label=Profile%20views&color=0e75b6&style=flat" alt="parmanand441" /> </p>
@@ -11,13 +11,13 @@
 
 - 🔭 I’m currently working on **E-commerce Application**
 
-- 🌱 I’m currently learning **React.JS and Python**
+- 🌱 I’m currently learning **Python**
 
-- 👯 I’m looking to collaborate on **Inquiry Management system**
+- 👯 I’m looking to collaborate on **Any project**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Parmanand441](https://github.com/Parmanand441)
 
-- 💬 Ask me about **HTML, CSS, Tailwind, JavaScript and React.JS**
+- 💬 Ask me about **HTML, CSS, Tailwind, Bootstrap, JavaScript, PHP, Codeigniter, Ajax.**
 
 - 📫 How to reach me **https://www.linkedin.com/in/parmanand-rai-48a983238/overlay/about-this-profile/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BjzJCMZNVSzuOKMRvDvTdPg%3D%3D**
 
